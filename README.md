@@ -1,4 +1,4 @@
-## <p style="font-family: serif" align='center'>Gerenciamento de biblioteca 📖</p>
+## <p style="font-family: serif" align='center'>📖 Gerenciamento de biblioteca 📖</p>
 <p font-size = "30">
   Este é um programa de gerenciamento de vendas de livros desenvolvido em Python usando a biblioteca Tkinter para a interface gráfica do usuário (GUI). Ele permite que os usuários      realizem várias operações, incluindo adicionar livros ao estoque, excluir livros, editar informações de livros existentes, realizar vendas e exibir estatísticas de vendas.
 
